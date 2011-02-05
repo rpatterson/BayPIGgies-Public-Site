@@ -1,0 +1,10 @@
+*.pyc
+BPPython
+eggs
+src
+var
+parts
+bin
+develop-eggs
+.installed.cfg
+.mr.developer.cfg
